@@ -41,8 +41,7 @@
 
 <br />
 
-👨🏽‍💻 I’m currently working on [podopieczni.pl](https://podopieczni-21142.vercel.app/)
-
+👨🏽‍💻 I’m currently working on <a href="https://podopieczni-21142.vercel.app/" target="_blank">pododpieczni.pl</a>
 <br />
 
 ### Connect with me: 
