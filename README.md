@@ -1,6 +1,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-macGalinski-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maciej-gali%C5%84ski-939908209/)](https://www.linkedin.com/in/maciej-gali%C5%84ski-939908209/)
-# 💬 Hi there 👋, my name is **Maciej**
-##  I'm a **Full Stack Web Developer** based in Warsaw, Poland
+# Hi there 👋, my name is **Maciej**
+<br />
+
+### 💬  I'm a **Full Stack Web Developer** based in Warsaw, Poland
 <br />
 
 ### 🛠️ Languages, Libraries, Frameworks, Tools and Editors I've worked with:
