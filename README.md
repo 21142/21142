@@ -1,9 +1,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-macGalinski-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maciej-gali%C5%84ski-939908209/)](https://www.linkedin.com/in/maciej-gali%C5%84ski-939908209/)
-# 💬 Hi there 👋, my name is **Maciej**
-##  I'm a **Full Stack Web Developer** based in Warsaw, Poland
+<img src="https://komarev.com/ghpvc/?username=21142&label=Visitors%20count&color=b40e9e&style=flat" alt="21142" />
+
+# Hi there 👋 my name is **`Maciej`**
+##  I'm a passionate `Full Stack Web Developer` based in Warsaw, Poland
+<br />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=21142&theme=dark" alt="21142" />
+<br />
+<br />
 <br />
 
-### 🛠️ Languages, Libraries, Frameworks, Tools and Editors I've worked with:
+## 🛠️ `Languages, Libraries, Frameworks, Tools, PaaS and Editors I've worked with:`
 
 <br />
 
@@ -24,16 +30,15 @@
 <img align="left" alt="Microsoft SQL Server" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="postgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Redis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" style="padding-right:10px;" />
-
 <br />
 <br />
 <br />
 
 
-### 📫 Contact me here: 
+## 📫 `Contact me here:` 
 <br />
 
-[<img align="left" alt="Linkedin" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-left:10px; padding-top:10px;" />](https://www.linkedin.com/in/maciej-galiński-939908209/)
+[<img align="left" alt="Linkedin" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-left:10px; padding-top:10px;" />](https://www.linkedin.com/in/maciej-galinski/)
 <a href="mailto: maciej.galinski1@gmail.com?subject=I%20want%20to%20connect&body=Hello%20Maciej,%0D%0A%0D%0A%20I'm%20writing%20to%20you%20about..."><img align="left" alt="Linkedin" width="42px" src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg" style="padding-left:10px; padding-top:15px;" /></a>
 
 
@@ -45,5 +50,5 @@
 <br />
 <br />
 
-### 👨🏽‍💻 Currently working on <a href="https://podopieczni-21142.vercel.app/" target="_blank">podopieczni.pl</a>
+## 👨🏽‍💻 Currently working on <a href="https://podopieczni-21142.vercel.app/" target="_blank">**`podopieczni.pl`**</a>
 
