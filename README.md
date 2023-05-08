@@ -2,7 +2,9 @@
 <img src="https://komarev.com/ghpvc/?username=21142&label=Visitors%20count&color=b40e9e&style=flat" alt="21142" />
 
 # Hi there 👋 my name is **`Maciej`**
-##  I'm a passionate `Full Stack Web Developer` based in Warsaw, Poland
+
+## I'm a passionate `Full Stack Web Developer` based in Warsaw, Poland
+
 <br />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=21142&theme=dark" alt="21142" />
 <br />
@@ -34,13 +36,12 @@
 <br />
 <br />
 
+## 📫 `Contact me here:`
 
-## 📫 `Contact me here:` 
 <br />
 
 [<img align="left" alt="Linkedin" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-left:10px; padding-top:10px;" />](https://www.linkedin.com/in/maciej-galinski/)
 <a href="mailto: maciej.galinski1@gmail.com?subject=I%20want%20to%20connect&body=Hello%20Maciej,%0D%0A%0D%0A%20I'm%20writing%20to%20you%20about..."><img align="left" alt="Linkedin" width="42px" src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg" style="padding-left:10px; padding-top:15px;" /></a>
-
 
 <br />
 <br />
@@ -51,4 +52,3 @@
 <br />
 
 ## 👨🏽‍💻 Currently working on <a href="https://podopieczni-21142.vercel.app/" target="_blank">**`podopieczni.pl`**</a>
-
