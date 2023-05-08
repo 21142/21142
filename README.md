@@ -1,9 +1,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-macGalinski-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maciej-gali%C5%84ski-939908209/)](https://www.linkedin.com/in/maciej-gali%C5%84ski-939908209/)
 <img src="https://komarev.com/ghpvc/?username=21142&label=Visitors%20count&color=b40e9e&style=flat" alt="21142" />
 
-# Hi there 👋 my name is **`Maciej`**
+# Hi there 👋 my name is **Maciej**
 
-## I'm a passionate `Full Stack Web Developer` based in Warsaw, Poland
+## • I'm a passionate **Full Stack Web Developer** based in Warsaw, Poland
 
 <br />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=21142&theme=dark" alt="21142" />
@@ -11,7 +11,7 @@
 <br />
 <br />
 
-## 🛠️ `Languages, Libraries, Frameworks, Tools, PaaS and Editors I've worked with:`
+## • 🛠️ Languages, Libraries, Frameworks, Tools, PaaS and Editors I've worked with:
 
 <br />
 
@@ -36,7 +36,7 @@
 <br />
 <br />
 
-## 📫 `Contact me here:`
+## • 📫 Contact me here:
 
 <br />
 
@@ -51,4 +51,4 @@
 <br />
 <br />
 
-## 👨🏽‍💻 Currently working on <a href="https://podopieczni-21142.vercel.app/" target="_blank">**`podopieczni.pl`**</a>
+## • 👨🏽‍💻 Currently working on <a href="https://podopieczni-21142.vercel.app/" target="_blank">**`podopieczni.pl`**</a>
