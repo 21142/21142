@@ -52,4 +52,4 @@
 <br />
 
 ## • 👨🏽‍💻 Currently working on <a href="https://podopieczni-21142.vercel.app/" target="_blank">**`podopieczni.pl`**</a>
-## • 👨🏽‍💻 Recently worked on <a href="https://mera-petfood.vercel.app/" target="_blank">**`mera-petfood.pl`**</a>
+## • 👨🏽‍💻 Recently worked on <a href="https://mera-petfood.pl/" target="_blank">**`mera-petfood.pl`**</a>
