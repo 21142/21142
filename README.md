@@ -1,17 +1,29 @@
 [![Linkedin Badge](https://img.shields.io/badge/-macGalinski-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maciej-gali%C5%84ski-939908209/)](https://www.linkedin.com/in/maciej-gali%C5%84ski-939908209/)
 <img src="https://komarev.com/ghpvc/?username=21142&label=Visitors%20count&color=b40e9e&style=flat" alt="21142" />
 
-# Hi there 👋 my name is **Maciej**
+# 👋 Hello, my name is **Maciej**
 
-## • I'm a passionate **Full Stack Web Developer** based in Warsaw, Poland
+I'm a passionate **Full Stack Web Developer** based in Warsaw, Poland, with over 3 years of professional experience building web applications. I specialize in **C#**, **TypeScript**, **React/Angular**, and **cloud infrastructure**, with a solid background in **fullstack web development**. 
+
+I hold a **bachelor’s degree in Computer Science** from the **Polish-Japanese Academy of Information Technology (PJATK)**, with a major in **Web Applications and Databases**.
+
+Recently, I’ve developed a strong interest in **Web3**, **blockchain technology**, and **decentralized applications (dApps)**. Currently, I’m diving deeper into **blockchain development**, learning **smart contracts**, and exploring the potential of the **decentralized web**.
 
 <br />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=21142&theme=dark" alt="21142" />
 <br />
+
+## 🌐 Current Focus:
+- Learning and building Solidity-based smart contracts for Ethereum and EVM-compatible chains.
+- Developing dApps that connect with decentralized networks using Web3.js, Ethers.js, Viem and Wagmi.
+- Exploring DeFi protocols, DEX mechanisms, and the possibilities of decentralized finance.
+- Enhancing my skills in interacting with blockchain APIs (REST/GraphQL) and building token-based applications.
+- Leveraging my fullstack experience with Next.js and React to create seamless blockchain interfaces.
+
 <br />
 <br />
 
-## • 🛠️ Languages, Libraries, Frameworks, Tools, PaaS and Editors I've worked with:
+## 🛠️ Languages, Libraries, Frameworks, Tools, PaaS and Editors I've worked with:
 
 <br />
 
@@ -35,8 +47,9 @@
 <br />
 <br />
 <br />
+<br />
 
-## • 📫 Contact me here:
+## 📫 Contact me here:
 
 <br />
 
@@ -51,5 +64,4 @@
 <br />
 <br />
 
-## • 👨🏽‍💻 Currently working on <a href="https://podopieczni-21142.vercel.app/" target="_blank">**`podopieczni.pl`**</a>
-## • 👨🏽‍💻 Recently worked on <a href="https://mera-petfood.pl/" target="_blank">**`mera-petfood.pl`**</a>
+## 👨🏽‍💻 Previously worked on <a href="https://podopieczni-21142.vercel.app/" target="_blank">**`podopieczni.pl`**</a> and <a href="https://mera-petfood.pl/" target="_blank">**`mera-petfood.pl`**</a>
