@@ -3,7 +3,7 @@
 
 # 👋 Hello, my name is **Maciej**
 
-I'm a passionate **Full Stack Web Developer** based in Warsaw, Poland, with over 3 years of professional experience building web applications. I specialize in **C#**, **TypeScript**, **React/Angular**, and **cloud infrastructure**, with a solid background in **fullstack web development**. 
+I'm a passionate **Full Stack Web Developer** based in Warsaw, Poland, with over 4 years of professional experience building web applications. I specialize in **C#**, **TypeScript**, **React/Angular**, and **cloud infrastructure**, with a solid background in **fullstack web development**. 
 
 I hold a **bachelor’s degree in Computer Science** from the **Polish-Japanese Academy of Information Technology (PJATK)**, with a major in **Web Applications and Databases**.
 
@@ -64,4 +64,4 @@ Recently, I’ve developed a strong interest in **Web3**, **blockchain technolog
 <br />
 <br />
 
-## 👨🏽‍💻 Previously worked on <a href="https://podopieczni-21142.vercel.app/" target="_blank">**`podopieczni.pl`**</a> and <a href="https://mera-petfood.pl/" target="_blank">**`mera-petfood.pl`**</a>
+## 👨🏽‍💻 Previously worked on <a href="https://idriss.xyz" target="_blank">**`idriss.xyz`**</a>, <a href="https://swiftproxy.io" target="_blank">**`swiftproxy.io`**</a>, <a href="https://podopieczni-21142.vercel.app/" target="_blank">**`podopieczni.pl`**</a> and <a href="https://mera-petfood.pl/" target="_blank">**`mera-petfood.pl`**</a>
