@@ -3,7 +3,7 @@
 
 # 👋 Hello, my name is **Maciej**
 
-I'm a passionate **Full Stack Web Developer** based in Warsaw, Poland, with over 4 years of professional experience building web applications. I specialize in **C#**, **TypeScript**, **React/Angular**, and **cloud infrastructure**, with a solid background in **fullstack web development**. 
+I'm a passionate **Full Stack Web Developer** based in Warsaw, Poland, with nearly 5 years of professional experience building web applications. I specialize in **C#**, **TypeScript**, **React/Angular**, and **cloud infrastructure**, with a solid background in **fullstack web development**. 
 
 I hold a **bachelor’s degree in Computer Science** from the **Polish-Japanese Academy of Information Technology (PJATK)**, with a major in **Web Applications and Databases**.
 
