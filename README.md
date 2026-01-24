@@ -3,21 +3,23 @@
 
 # 👋 Hello, my name is **Maciej**
 
-I'm a passionate **Full Stack Web Developer** based in Warsaw, Poland, with nearly 5 years of professional experience building web applications. I specialize in **C#**, **TypeScript**, **React/Angular**, and **cloud infrastructure**, with a solid background in **fullstack web development**. 
+I'm a passionate **Full Stack Web Developer** based in Warsaw, Poland, with nearly 5 years of professional experience building commercial web applications. When not at work, I enjoy snowboarding and traveling with my significant other and our dog.
+
+I specialize in **TypeScript**, **Next.js**, **React**, **Angular**, **C#**, **.NET**, and **cloud infrastructure**, with a solid background in **fullstack web development**.
 
 I hold a **bachelor’s degree in Computer Science** from the **Polish-Japanese Academy of Information Technology (PJATK)**, with a major in **Web Applications and Databases**.
 
-Recently, I’ve developed a strong interest in **Web3**, **blockchain technology**, and **decentralized applications (dApps)**. Currently, I’m diving deeper into **blockchain development**, learning **smart contracts**, and exploring the potential of the **decentralized web**.
+Recently, I’ve developed a strong interest in **automating processes**, **AI integrations**, **Web3**, **blockchain technology**, and **decentralized applications (dApps)**. Currently, I’m diving deeper into **blockchain development**, learning **smart contracts**, and exploring the potential of the **decentralized web**.
 
 <br />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=21142&theme=dark" alt="21142" />
 <br />
 
 ## 🌐 Current Focus:
-- Learning and building Solidity-based smart contracts for Ethereum and EVM-compatible chains.
-- Developing dApps that connect with decentralized networks using Web3.js, Ethers.js, Viem and Wagmi.
+- Working on several projects through my company - MG Digital Solutions - <a href="https://www.mg-digitalsolutions.com/" target="_blank">**`mg-digitalsolutions.com`**</a>
+- Automating processes and integrating AI
+- Developing dApps that connect with decentralized networks using Next.js, React, Viem and Wagmi.
 - Exploring DeFi protocols, DEX mechanisms, and the possibilities of decentralized finance.
-- Enhancing my skills in interacting with blockchain APIs (REST/GraphQL) and building token-based applications.
 - Leveraging my fullstack experience with Next.js and React to create seamless blockchain interfaces.
 
 <br />
@@ -64,4 +66,4 @@ Recently, I’ve developed a strong interest in **Web3**, **blockchain technolog
 <br />
 <br />
 
-## 👨🏽‍💻 Previously worked on <a href="https://idriss.xyz" target="_blank">**`idriss.xyz`**</a>, <a href="https://swiftproxy.io" target="_blank">**`swiftproxy.io`**</a>, <a href="https://podopieczni-21142.vercel.app/" target="_blank">**`podopieczni.pl`**</a> and <a href="https://mera-petfood.pl/" target="_blank">**`mera-petfood.pl`**</a>
+## 👨🏽‍💻 Previously worked on <a href="https://www.direct-assurance.fr" target="_blank">**`direct-assurance.fr`**</a>, <a href="https://idriss.xyz" target="_blank">**`idriss.xyz`**</a>, <a href="https://ag-broker.vercel.app" target="_blank">**`ag-broker.pl`**</a>, <a href="https://swiftproxy.io" target="_blank">**`swiftproxy.io`**</a>, <a href="https://www.movemedstudio.pl" target="_blank">**`movemedstudio.pl`**</a>, <a href="https://mera-petfood.pl/" target="_blank">**`mera-petfood.pl`**</a>, <a href="https://www.centrum-relacji-torun.pl" target="_blank">**`centrum-relacji-torun.pl`**</a> and <a href="https://podopieczni-21142.vercel.app/" target="_blank">**`podopieczni.pl`**</a>
