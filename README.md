@@ -12,7 +12,8 @@ I hold a **bachelor’s degree in Computer Science** from the **Polish-Japanese 
 Recently, I’ve developed a strong interest in **automating processes**, **AI integrations**, **Web3**, **blockchain technology**, and **decentralized applications (dApps)**. Currently, I’m diving deeper into **blockchain development**, learning **smart contracts**, and exploring the potential of the **decentralized web**.
 
 <br />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=21142&theme=dark" alt="21142" />
+<img  alt="macG's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/21142?cardType=level&theme=dark&fontFamily=&preferLogin=false" />
+<img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=21142&theme=darcula" />
 <br />
 
 ## 🌐 Current Focus:
