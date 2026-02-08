@@ -1,7 +1,12 @@
+<div align="center">
+   <img alt="macG's GitHub Stats" src="https://raw.githubusercontent.com/21142/stats-remotion/main/out/readme.gif">
+</div>
+
+<br />
+<br/>
+
 [![Linkedin Badge](https://img.shields.io/badge/-macGalinski-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maciej-gali%C5%84ski-939908209/)](https://www.linkedin.com/in/maciej-gali%C5%84ski-939908209/)
 <img src="https://komarev.com/ghpvc/?username=21142&label=Visitors%20count&color=b40e9e&style=flat" alt="21142" />
-
-# 👋 Hello, my name is **Maciej**
 
 I'm a passionate **Full Stack Web Developer** based in Warsaw, Poland, with nearly 5 years of professional experience building commercial web applications. When not at work, I enjoy snowboarding and traveling with my significant other and our dog.
 
@@ -11,9 +16,6 @@ I hold a **bachelor’s degree in Computer Science** from the **Polish-Japanese 
 
 Recently, I’ve developed a strong interest in **automating processes**, **AI integrations**, **Web3**, **blockchain technology**, and **decentralized applications (dApps)**. Currently, I’m diving deeper into **blockchain development**, learning **smart contracts**, and exploring the potential of the **decentralized web**.
 
-<br />
-<img  alt="macG's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/21142?cardType=level&theme=dark&fontFamily=&preferLogin=false" />
-<img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=21142&theme=darcula" />
 <br />
 
 ## 🌐 Current Focus:
