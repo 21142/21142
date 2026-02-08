@@ -17,6 +17,11 @@ I hold a **bachelor’s degree in Computer Science** from the **Polish-Japanese 
 Recently, I’ve developed a strong interest in **automating processes**, **AI integrations**, **Web3**, **blockchain technology**, and **decentralized applications (dApps)**. Currently, I’m diving deeper into **blockchain development**, learning **smart contracts**, and exploring the potential of the **decentralized web**.
 
 <br />
+<br />
+<div align="center">
+   <img src="https://streak-stats.demolab.com?user=21142&theme=github-dark-dimmed" alt="GitHub Streak" />
+</div>
+<br />
 
 ## 🌐 Current Focus:
 - Working on several projects through my company - MG Digital Solutions - <a href="https://www.mg-digitalsolutions.com/" target="_blank">**`mg-digitalsolutions.com`**</a>
